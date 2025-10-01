@@ -23,15 +23,25 @@ Emphasizes practical interpretation, model validation, and decision-making for r
 
 ## 🗂️ Repository Structure
 ├── SAS_Code/
+
 │   ├── cosmetics.sas    # Q1: Tests & plots
+
 │   ├── pub.sas    # Q2: Multicollinearity, selection, diagnostics
+
 │   ├── travel.sas    # Q3: Linear/log models & residuals
+
 │   └── bank.sas    # Q4: Chi-square & proportions CI
+
 ├── Outputs/
+
 │   ├── Figures/                  # Histograms, QQ, residuals, scatters
+
 │   └── Tables/                   # Means, VIF, models, CIs
+
 ├── Presentation/
+
 │   └── DATT_Group16.pptx         # 30+ slides
+
 └── README.md                     # This file
 
 ## 🚀 How to Run
