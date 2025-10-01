@@ -1,2 +1,2 @@
 # Statistical-Mastery-Enhancing-Retail-Sales-and-Property-Investments-through-Advanced-Analytics
-This project demonstrates advanced statistical techniques applied to real-world business scenarios in retail and hospitality. Using SAS, we analyze cosmetics sales training effectiveness, model pub revenues for investment decisions, and forecast insurance claims.
+This SAS-driven project analyzes four business scenarios: evaluating cosmetics sales training via hypothesis tests, modeling pub revenues for acquisitions using regression, forecasting age-based insurance claims with log transformations, and assessing loan delinquency by age groups through chi-square tests. Delivers data-backed recommendations for revenue growth, risk mitigation, and strategic decisions.
