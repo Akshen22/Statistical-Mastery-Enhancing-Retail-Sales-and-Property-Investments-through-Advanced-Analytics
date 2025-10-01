@@ -1,7 +1,7 @@
 # Statistical Insights: Optimizing Retail Training, Property Investments, Insurance Pricing, and Loan Risk Management
 
 ## 🎯 Project Description
-This repository presents a full SAS statistical analysis from the "Data Analytics Tools and Techniques". It addresses four interconnected business challenges using real-world datasets:
+This repository presents a full SAS statistical analysis from the "Data Analytics Tools & Techniques". It addresses four interconnected business challenges using real-world datasets:
 
 1. **Cosmetics Sales Training (Q1)**: Paired t-test and Wilcoxon signed-rank test on 40 UK stores' data to assess training impact on male-targeted Christmas sales. Non-parametric results show significant uplift (£50.95 avg.), despite parametric non-significance due to non-normality.
 2. **Pub Property Valuation (Q2)**: Multiple linear regression on 40 properties, tackling multicollinearity (VIF>7 for House/Otherarea/Garden), model selection (forward/backward/Cp), diagnostics (residuals, leverage, DFBETAS), and predictions. Final model (Pubs + Employ) explains 39.6% variance; advises against £515K "Good King James" purchase (max viable: £408K at 95% CI).
